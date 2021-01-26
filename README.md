@@ -1,2 +1,2 @@
-# cv_html
-basic html page
+# html_css
+basic page using html and css
